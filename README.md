@@ -38,7 +38,6 @@ ISPBot follows the classic **sense → think → act** agent cycle:
 - **A (Actuators):** Display output, comparison table, alerts
 - **S (Sensors):** Budget, speed, usage type, location inputs
 
-📄 Full write-up with the graphical workflow diagram, agent formulation, environment types, PEAS table, complete code, and a line-by-line code explanation: **`AI_Agent_Assignment_Wajahat_Akbar.pdf`**
 
 ## Part 2: Smart Travel Agent (Code)
 
