@@ -50,28 +50,6 @@ A separate rule-based agent that recommends a travel destination based on the us
 2. Picks the best matching destination from the filtered list.
 3. Displays the recommended destination, trip type, duration, and estimated cost.
 
-### Files
-
-| File | Description |
-|---|---|
-| `travel_agent.py` | Plain Python script version |
-| `travel_agent.ipynb` | Google Colab notebook version (run cell by cell) |
-
-### How to Run
-
-**Python script:**
-```bash
-python3 travel_agent.py
-```
-
-**Google Colab:** open `travel_agent.ipynb` in [Google Colab](https://colab.research.google.com) and run each cell in order.
-
-### Example
-
-```python
-travel_agent(budget=40000, available_days=5, trip_type="Mountain")
-```
-
 **Output:**
 ```
 Searching best travel destination for your trip...
